@@ -1,0 +1,176 @@
+@font-face{
+	font-family: 'georgia';
+	src: url(fonts/georgia.ttf);
+}
+*{
+	font-family: 'georgia';
+}
+/*header top start*/
+
+.color-top{
+	
+	
+}
+.header-top1{
+	background-color:#81b300;
+	height:6px;
+	padding:0px 0;
+}
+.header-top2{
+	padding-top: 0px;
+}
+.container-fluid{
+
+}
+.top-logo{
+	margin-top: 25px;
+	margin-bottom: 20px;
+}
+.right-logo1{
+	text-align: right;
+	margin-top:0px;
+}
+.right-logo2{
+	text-align: right;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+/*header top end*/
+/*header start*/
+header{
+	background-color:#81b300;
+	padding: 10px 0;
+	margin-top:20px;
+}
+.menu ul li a{
+	font-weight: 400px;
+	font-size: 13px;
+	color: #ffffff !important;
+	padding: 0 20px !important;
+	transition: .5s;
+
+}
+.menu ul li:last-child a{}
+.menu ul li a:hover{
+	color: black !important;
+}
+/*header end*/
+/*slider start*/
+.slider{
+	background-color: #f2f2f2;
+}
+.banner-img{
+	margin-top: 30px;
+}
+.carousel-indicators li{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
+/*slider end*/
+/*card1 start*/
+.card-first{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.card{
+    margin: 10px 0px;
+}
+.card-img{
+	text-align: center;
+}
+.card-title{
+	color:#b8d470;
+	font-size: 18px;
+}
+/*card1 end*/
+/*card2 start*/
+.card-second{
+	margin-bottom: 30px;
+}
+.card-body a{
+	color:#b8d470; 
+}
+.card-text{
+	color: #878787;
+}
+/*card2 end*/
+/*footer start*/
+.footer{
+	background-color: #3b3b3b;
+
+}
+.contact-part1 {
+	margin-top: 30px;
+}
+.contact-part1 h5 {
+	font-size: 14px;
+	color: #ffffff;
+}
+.contact-part1 p {
+	color: #ffffff;
+}
+.contact-part2 {
+	margin-top: 30px;
+}
+.contact-part2 h5 {
+	font-size: 14px;
+	color: #ffffff;
+}
+.common_hr{
+	background-color:#ffffff;
+}
+.contact-part2 h7 {
+	color: #ffffff;
+}
+.contact-part3 {
+	margin-top: 30px;
+}
+.contact-part3 h5 {
+	font-size: 14px;
+	color: #ffffff;
+}
+.contact-part3 h6{
+	font-weight: 700px;
+	color: #ffffff;
+}
+.contact-part3 p{
+	font-size: 12px;
+	color: #ffffff;
+}
+.contact-part3 a{
+	color:#b8d470; 
+}
+.contact-part4 {
+	margin-top: 30px;
+}
+.contact-part4 h5 {
+	font-size: 14px;
+	color: #ffffff;
+}
+.contact-part4 a{
+	background-color:#1f1f1f;
+	color:#b8d470;
+}
+/*footer end*/
+/*footer bottom start*/
+.footer-bottom{
+	background-color: #2e2e2e;
+}
+.para1{
+	font-size: 12px;
+	color: #ffffff;
+	text-align:left;
+	margin-top:27px;
+}
+.para2{
+
+	font-size: 12px;
+	color: #ffffff;
+	text-align:right;
+	margin-top:27px;
+
+}
+
+/*footer bottom end*/
+
